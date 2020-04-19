@@ -1,4 +1,4 @@
-module etcd3resolver
+module github.com/rebirthcat/etcd3resolver
 
 go 1.14
 
